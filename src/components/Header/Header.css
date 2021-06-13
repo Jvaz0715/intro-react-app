@@ -1,0 +1,15 @@
+.header {
+    height: 1fr;
+    width: 100%;
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 10px solid black;
+}
+
+.header h1 {
+    margin-top: 0px;
+    font-size: 95px;
+    color: white;
+}

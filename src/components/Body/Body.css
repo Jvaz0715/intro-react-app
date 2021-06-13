@@ -1,0 +1,23 @@
+.body {
+    height: 720px;
+    width: 100%;
+    background-color: firebrick;
+    border: 10px solid navajowhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.squares-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.body-image {
+    width: 300px;
+}
+
+.lorem-div {
+    width: 600px;
+}
